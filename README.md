@@ -7,4 +7,4 @@ Sources and References:
 
 - Datasets
 - ## Wine quality
-- https://archive.ics.uci.edu/dataset/186/wine+quality
+- https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
